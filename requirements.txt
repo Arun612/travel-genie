@@ -1,0 +1,7 @@
+git+https://github.com/microsoft/autogen.git
+openai
+langchain
+tiktoken
+requests
+python-dotenv
+aiohttp
